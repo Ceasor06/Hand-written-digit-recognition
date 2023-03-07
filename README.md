@@ -23,3 +23,5 @@ Dataset used was the MNIST data that is a database of handwritten digits, the 'p
 
 Each image is of 28 x 28 pixels, and each pixel forms a feature, there are 785 features and 5 rows making of 42000 training samples.
 <hr>
+
+In this project, we took a sample size of about 10-12% of the training sample in which we got accuracy upto 95%.
