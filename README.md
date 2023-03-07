@@ -14,3 +14,12 @@ Many current systems use ***Discrete Hidden Markov Vision***-based model or comb
 <hr>
 
 ## Dataset
+
+Dataset used was the MNIST data that is a database of handwritten digits, the 'pixel values' of each image comprise the features, and the actual number between 0-9 is the label.
+
+***This is what dataset looks like:***
+
+<img width="322" alt="Screenshot 2023-03-07 at 7 03 07 PM" src="https://user-images.githubusercontent.com/105945382/223457924-9b27acfa-a167-4bc3-bc35-3e5de145dfcb.png">
+
+Each image is of 28 x 28 pixels, and each pixel forms a feature, there are 785 features and 5 rows making of 42000 training samples.
+<hr>
